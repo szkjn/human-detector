@@ -1,0 +1,10 @@
+# Media for tests
+gif/
+input/
+output/
+
+# Virtual environment
+virtual/
+
+# Jupyter Notebook
+.ipynb_checkpoints
