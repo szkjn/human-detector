@@ -30,7 +30,6 @@ Inference time (how quick the network processes the feed) is displayed at the bo
 3. Install the necessary librairies :
 
         pip install opencv-python
-        pip install pyzbar
 
 ## Improvements
 
