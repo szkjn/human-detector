@@ -49,4 +49,4 @@ v3:
 
 ## Additional information
 
-Original video : [Pharcyde, Drop (by Spike Jonze)](https://www.youtube.com/watch?v=8Qii-8nA5xM)
+Original video clip : [Pharcyde, Drop (by Spike Jonze)](https://www.youtube.com/watch?v=8Qii-8nA5xM)
