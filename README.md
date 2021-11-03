@@ -1,9 +1,9 @@
 # Human Detector
 
+![output_pharcyde_sm](https://user-images.githubusercontent.com/84317349/140078298-80a49eac-d547-4e7c-9b0e-174d8d0bc9d8.gif)
+
 tech: OpenCV<br>
 version: 1.0.1
-
-![output_pharcyde_sm](https://user-images.githubusercontent.com/84317349/140078298-80a49eac-d547-4e7c-9b0e-174d8d0bc9d8.gif)
 
 ## Overview
 This application detects and boxes humans in a video feed using MobileNet-SSD pre-trained model.<br>
