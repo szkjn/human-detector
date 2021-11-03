@@ -1,0 +1,3 @@
+# Human Detector
+
+tech: OpenCV
