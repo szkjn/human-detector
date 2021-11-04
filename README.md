@@ -48,5 +48,5 @@ v3:
 
 ## Additional information
 
-Resources : https://opencv.org/
-Original video clip : [Pharcyde, Drop (by Spike Jonze)](https://www.youtube.com/watch?v=8Qii-8nA5xM)<br>
+Resources : https://opencv.org/ <br>
+Original video clip : [Pharcyde, Drop (by Spike Jonze)](https://www.youtube.com/watch?v=8Qii-8nA5xM)
