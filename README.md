@@ -33,8 +33,7 @@ Inference time (how quick the network processes the feed) is displayed at the bo
 
 ## Improvements
 
-The current version of the application requires one video input and outputs the corresponding human-detected video.<br>
-Following improvements are planned in the future :
+The current version of the application requires one video input and outputs the corresponding human-detected video. Following improvements are planned in the future :
 
 v1.2:
 + allowing use of webcam feed
